@@ -1,3 +1,3 @@
-console.log("Name: John Doe");
-console.log("Age: 25");
+console.log("Name:Bahati Hakizimana");
+console.log("Age: 20");
 console.log("Favorite Programming Language: JavaScript");
